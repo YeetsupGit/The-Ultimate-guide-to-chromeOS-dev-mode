@@ -1,7 +1,7 @@
 # Developer Mode and how to get to it
 *markdown Edition*
 
-#### created by [u/yeetsupreddit](https://reddit.com/u/yeetsupreddit "my reddit page")
+#### created by [u/yeetsupwillneverdie](https://reddit.com/u/yeetsupwillneverdie "my new reddit account cuz i got banned")
 
 >*please note that the official chromiumOS docs contain as much information as this repo. this is just a more, **simplified** version of those Docs.*
 
