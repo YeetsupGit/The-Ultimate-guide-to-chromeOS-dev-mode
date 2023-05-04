@@ -1,7 +1,7 @@
 # Developer Mode and how to get to it
 *markdown Edition*
 
-#### created by [u/yeetsupreddit](https://reddit.com/u/yeetsupreddit "my reddit page")
+#### created by [u/yeetsupwillneverdie](https://reddit.com/u/yeetsupwillneverdie "cuz i got banned on 9 seperate reddit accounts since the creation of this document")
 
 sooo, you're feeling a little techsy, and you feel like destroying that spare chromebook you've had sitting in a drawer since 2015... you've come to the right place. It's funny that some people actualy read these, and it's even funnier that most people don't know that I edit these in ChromeOS 72's Default Text editor. Anyways, to the point:
 
