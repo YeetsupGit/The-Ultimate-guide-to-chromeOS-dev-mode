@@ -3,6 +3,8 @@
 
 #### created by [u/yeetsupreddit](https://reddit.com/u/yeetsupreddit "my reddit page")
 
+>*please note that the official chromiumOS docs contain as much information as this repo. this is just a more, **simplified** version of those Docs.*
+
 sooo, you're feeling a little techsy, and you feel like destroying that spare chromebook you've had sitting in a drawer since 2015... you've come to the right place. It's funny that some people actualy read these, and it's even funnier that most people don't know that I edit these in ChromeOS 72's Default Text editor. Anyways, to the point:
 
 ## What *is* ChromeOS developer mode?
@@ -140,10 +142,13 @@ So, we're very fastly approaching the end of this document file thingy, so, I'm 
 
 [Wanna learn about crouton?](https://github.com/dnschneid/crouton)
 
-[see me on reddit](https://reddit.com/u/yeetsupreddit)
+[see me on reddit](https://reddit.com/u/yeetsupwillneverdie "the reddit admins hate me so much i had to tell them id never die through my username")
 
 [see my stalker on reddit](https://reddit.com/u/g1zm08)
 
+[a random telegram group that has nothing to do with chromiumOS](t.me/YeetsupsCult "when you start a cult on telegram")
+
+[a random discord server that has nothing to do with chromiumOS](https://discord.gg/ypqsab8gVk "warning, not for the light-hearted!!")
 ## goodbye
 
 goodbye. just goodbye. I hope this .MD document helped someone learn about chromeOS and it's developer mode. 
